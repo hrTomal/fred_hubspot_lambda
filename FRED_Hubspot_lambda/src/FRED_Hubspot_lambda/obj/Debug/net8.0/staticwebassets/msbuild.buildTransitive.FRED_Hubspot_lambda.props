@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FRED_Hubspot_lambda.props" />
+</Project>

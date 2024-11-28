@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6300E618-053E-44CC-8280-403D855BCD05}|FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda.csproj|c:\\users\\hrtom\\onedrive\\desktop\\projects\\fred_lambda\\fred_hubspot_lambda\\fred_hubspot_lambda\\src\\fred_hubspot_lambda\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6300E618-053E-44CC-8280-403D855BCD05}|FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda.csproj|solutionrelative:fred_hubspot_lambda\\src\\fred_hubspot_lambda\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6300E618-053E-44CC-8280-403D855BCD05}|FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda.csproj|c:\\users\\hrtom\\onedrive\\desktop\\projects\\fred_lambda\\fred_hubspot_lambda\\fred_hubspot_lambda\\src\\fred_hubspot_lambda\\functions\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6300E618-053E-44CC-8280-403D855BCD05}|FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda.csproj|solutionrelative:fred_hubspot_lambda\\src\\fred_hubspot_lambda\\functions\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6300E618-053E-44CC-8280-403D855BCD05}|FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda.csproj|c:\\users\\hrtom\\onedrive\\desktop\\projects\\fred_lambda\\fred_hubspot_lambda\\fred_hubspot_lambda\\src\\fred_hubspot_lambda\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6300E618-053E-44CC-8280-403D855BCD05}|FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda.csproj|solutionrelative:fred_hubspot_lambda\\src\\fred_hubspot_lambda\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Functions\\Function.cs",
+              "RelativeDocumentMoniker": "FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Functions\\Function.cs",
+              "ToolTip": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Functions\\Function.cs",
+              "RelativeToolTip": "FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Functions\\Function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:20:37.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Startup.cs",
+              "RelativeDocumentMoniker": "FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Startup.cs",
+              "ToolTip": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Startup.cs",
+              "RelativeToolTip": "FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:19:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Controllers\\WebhookController.cs",
+              "ToolTip": "C:\\Users\\hrtom\\OneDrive\\Desktop\\Projects\\fred_lambda\\FRED_Hubspot_lambda\\FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "FRED_Hubspot_lambda\\src\\FRED_Hubspot_lambda\\Controllers\\WebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:15:56.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

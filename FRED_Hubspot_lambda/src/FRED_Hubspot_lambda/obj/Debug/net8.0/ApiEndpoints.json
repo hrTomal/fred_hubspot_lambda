@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FRED_Hubspot_lambda.Controllers.WebhookController",
+    "Method": "ReceiveWebhook",
+    "RelativePath": "api/Webhook/receive",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "webhookData",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

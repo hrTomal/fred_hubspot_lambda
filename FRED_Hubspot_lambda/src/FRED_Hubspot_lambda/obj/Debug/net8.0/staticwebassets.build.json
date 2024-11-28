@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hPG3ks64dSBsziTfH9pH1IWRB5DU4p7WGzmoP7aOB2s=",
+  "Source": "FRED_Hubspot_lambda",
+  "BasePath": "_content/FRED_Hubspot_lambda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

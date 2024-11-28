@@ -1,0 +1,15 @@
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\FRED_Hubspot_lambda
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\appsettings.json
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\aws-lambda-tools-defaults.json
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\FRED_Hubspot_lambda.deps.json
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\FRED_Hubspot_lambda.runtimeconfig.json
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\FRED_Hubspot_lambda.pdb
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\hrtom\OneDrive\Desktop\Projects\fred_lambda\FRED_Hubspot_lambda\FRED_Hubspot_lambda\src\FRED_Hubspot_lambda\bin\Release\net8.0\publish\FRED_Hubspot_lambda.dll
